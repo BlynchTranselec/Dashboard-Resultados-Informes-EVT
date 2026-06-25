@@ -1,9 +1,8 @@
-[README.md](https://github.com/user-attachments/files/29355039/README.md)
 # Dashboard EVT Nacional — Transelec
 
 Dashboard ejecutivo interactivo del **Estudio de Valorización de la Transmisión (EVT)** — Segmento Nacional.
 
-🔗 **Ver dashboard:** https://blynchtranselec.github.io/evt-dashboard/
+🔗 **Ver dashboard:** https://blynchtranselec.github.io/Dashboard-Resultados-Informes-EVT/
 
 ---
 
